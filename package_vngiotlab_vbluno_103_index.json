@@ -94,7 +94,14 @@
 						  "size": "3434558",
 						  "checksum": "SHA-256:BAADF16A76FB2726B9950E558659F1B33B7125B7843BD4E7EE1CCCB5496862DF"
 					      },
-							{
+					      {
+						  "host": "x86_64-apple-darwin",
+						  "url": "https://github.com/NordicSemiconductor/pc-nrfutil/archive/v1.5.0.zip",
+						  "archiveFileName": "v1.5.0.zip",
+						  "size": "441106",
+						  "checksum": "SHA-256:17261cd3a148d71e33f6332b7fae63deb71a09113bf9821dc865638c9712ccff"
+					      },
+					      {
 								"host":"i686-mingw32",
 								"url":"https://github.com/VNGIoTLab/Arduino_VBLUno_nRF51822/raw/master/nrfutil-0.5.1_103.zip",
 								"archiveFileName":"nrfutil-0.5.1_103.zip",
