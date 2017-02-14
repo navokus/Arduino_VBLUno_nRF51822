@@ -96,10 +96,10 @@
 					      },
 					      {
 						  "host": "x86_64-apple-darwin",
-						  "url": "https://github.com/navokus/arduino_uploader/archive/1.1.zip",
+						  "url": "https://github.com/navokus/arduino_uploader/archive/1.0.1.zip",
 						  "archiveFileName": "nrfutil-mac.zip",
-						  "size": "1517",
-						  "checksum": "SHA-256:22ff78343fffd233d0131465daa2f6a09604f87d147634cc5c5239baf274bced"
+						  "size": "1531",
+						  "checksum": "SHA-256:4ed58648e999bb05d6d337a90c42142ec4b30ce48a72b1cf702b0f4b2d558d37"
 					      },
 					      {
 								"host":"i686-mingw32",
