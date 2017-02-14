@@ -96,10 +96,10 @@
 					      },
 					      {
 						  "host": "x86_64-apple-darwin",
-						  "url": "https://github.com/NordicSemiconductor/pc-nrfutil/archive/v1.5.0.zip",
-						  "archiveFileName": "v1.5.0.zip",
-						  "size": "441106",
-						  "checksum": "SHA-256:17261cd3a148d71e33f6332b7fae63deb71a09113bf9821dc865638c9712ccff"
+						  "url": "https://github.com/navokus/Arduino_VBLUno_nRF51822/raw/master/nrfutil-mac.zip",
+						  "archiveFileName": "nrfutil-mac.zip",
+						  "size": "425039",
+						  "checksum": "SHA-256:9da0f650426fa5340f689a46be8ce9e732ebfe9146316510beb29930a8e30e4c"
 					      },
 					      {
 								"host":"i686-mingw32",
