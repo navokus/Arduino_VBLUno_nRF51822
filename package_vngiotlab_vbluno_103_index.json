@@ -13,10 +13,10 @@
 					"architecture":"nRF51822",
 					"version":"1.0.3",
 					"category":"VNGIoTLab",
-					"url":"https://github.com/VNGIoTLab/Arduino_VBLUno_nRF51822/raw/master/VNGIoTLab_VBLUno_nRF51822_board_v103.zip",
+					"url":"https://github.com/navokus/vbluno_board/archive/1.0.3.zip",
 					"archiveFileName":"VNGIoTLab_VBLUno_nRF51822_board_v103.zip",
-					"checksum":"SHA-256:05CB9DC6C38E8A74E1F359BD1C375433861A05C3BEB89FD13DDC1C98DC87582A",
-					"size":"5565128",
+					"checksum":"SHA-256:59c38d67e08f78d926451aded3e46be99cf8524ac07c94b138724ab1d0d49a27",
+					"size":"5662843",
 					"boards":
 						[
 							{"name":"VBLUno nRF51822(V1.0.3 32KB)"},
@@ -96,10 +96,10 @@
 					      },
 					      {
 						  "host": "x86_64-apple-darwin",
-						  "url": "https://github.com/navokus/Arduino_VBLUno_nRF51822/raw/master/nrfutil-mac.zip",
+						  "url": "https://github.com/navokus/arduino_uploader/archive/1.0.zip",
 						  "archiveFileName": "nrfutil-mac.zip",
-						  "size": "425039",
-						  "checksum": "SHA-256:9da0f650426fa5340f689a46be8ce9e732ebfe9146316510beb29930a8e30e4c"
+						  "size": "936",
+						  "checksum": "SHA-256:eee45ab2879937f7323dfb3d4941d66244fc577adfa624b1085696e67efdbb57"
 					      },
 					      {
 								"host":"i686-mingw32",
